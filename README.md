@@ -13,7 +13,7 @@ https://github.com/Yeonnnii/CatRun/assets/141755349/ca1989a4-1d49-4233-aefb-6843
 > 장애물을 피해 최고 점수를 획득하는 게임
 >  - 햇빛이 드는 낮잠 잘 장소를 찾아가는 고양이
 > 
->  (visual studio)
+>  Unity(visual studio)
 
 
 ---

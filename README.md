@@ -40,7 +40,7 @@ https://github.com/Yeonnnii/CatRun/assets/141755349/ca1989a4-1d49-4233-aefb-6843
    > 배경 음악이 들리며, 설정으로 볼륨 조절 가능, start 누르면 main game 으로 이동
    > | Script | 기능 |
    > | :---: | :---: |
-   > |https://github.com/Yeonnnii/CatRun/blame/cd83d76ab72c21f888b3d7fc802b1ed1e1cd54cf/Assets/Scripts/UIStartSceneCanvas.cs#L19-L36|버튼 역할
+   > |https://github.com/Yeonnnii/CatRun/blob/f72555259e6f4efb938e826c7134968462667038/Assets/Scripts/UIStartSceneCanvas.cs#L19-L36|버튼 역할
 
 
 #### 선택 요구 사항
@@ -71,12 +71,11 @@ https://github.com/Yeonnnii/CatRun/assets/141755349/ca1989a4-1d49-4233-aefb-6843
 
 1. 오브젝트 폴링
 2. InputAction 사용
-3. delegate 사용
-4. raycast 
-5. generic 을 이용한 싱글톤
-6. FSM
-7. Dictionary 활용
-8. Queue, Stack 활용
+3. raycast 
+4. generic 을 이용한 싱글톤
+5. FSM
+6. Dictionary 활용
+7. Queue, Stack 활용
 
 
 ---
